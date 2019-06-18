@@ -81,7 +81,7 @@ const containsElement = (a, arr) => {
 
 const indexOfElement = (a, arr) => {
   let i = 0;
-  while (i < arr.length && arr[i] != a) {
+  while (i < arr.length && arr[i] !== a) {
     i++;
   }
   if (i < arr.length) {
