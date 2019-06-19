@@ -1,0 +1,25 @@
+{
+  "name": "programming-issues",
+  "version": "1.0.0",
+  "description": "programming-issues repo",
+  "main": "calc0611.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dezsimartin/programming-issues.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dezsimartin/programming-issues/issues"
+  },
+  "homepage": "https://github.com/dezsimartin/programming-issues#readme",
+  "dependencies": {
+    "axel": "0.0.3",
+    "readline-sync": "^1.4.9",
+    "table": "^5.4.1",
+    "terminal-kit": "^1.28.1"
+  }
+}
